@@ -1,16 +1,15 @@
 # Movies IMDB Data Analysis Repository
 
 This repository contains two key folders:  
-1. **IMDB of movies dataset analysis using sql portfolio**  
-2. **movies IMDB dataset analysis using sql full project**  
-
+1. **movies IMDB data analysis  portfolio**  
+2. **movies IMDB data analysis full project**  
 Each folder serves a specific purpose to present and analyze the movies IMDB SQLite dataset comprehensively.
 
 ---
 
 ## Folder Structure
 
-### 1. IMDB of movies dataset analysis using sql portfolio
+### 1.movies IMDB data analysis  portfolio 
 This folder contains curated content for showcasing the analysis of movies IMDB data. It highlights key insights and visualizations derived from the dataset.
 
 - **Contents:**
@@ -36,7 +35,7 @@ This folder contains curated content for showcasing the analysis of movies IMDB 
 
 ---
 
-### 2. movies IMDB dataset analysis using sql full project
+### 2. movies IMDB data analysis full project
 This folder contains the complete project workflow, starting database connection to generating insights. It serves as a detailed analysis pipeline for the dataset.  
 
 - **Contents:**
